@@ -16,7 +16,7 @@ function removeColor(el){
 }
 
 function showtrophy(el){
-	document.getElementById('bye').src = "images/1trophy.png";
-	document.getElementById('hey').src = "images/1trophy.png";
-	document.getElementById('11trophy').src = "images/1trophy.png";
+	document.getElementById('bye').src = "images/image2.png";
+	document.getElementById('hey').src = "images/image2.png";
+	document.getElementById('11trophy').src = "images/image11.png";
 }
