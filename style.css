@@ -20,7 +20,7 @@ body {
 
 .col {
 	height: 100%;
-	width: calc(100%/3);
+	width: calc(100%/4);
 }
 
 .rams-blue {
@@ -29,6 +29,12 @@ body {
 
 .pats-silver {
 	background-color: #ffff66;
+}
+.hey-one {
+	background-color: #ADD8E6;
+}
+.boo-yay {
+	background-color: #ADD8E6;
 }
 
 .opaque {
