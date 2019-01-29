@@ -19,4 +19,5 @@ function showtrophy(el){
 	document.getElementById('bye').src = "images/image2.png";
 	document.getElementById('hey').src = "images/image2.png";
 	document.getElementById('11trophy').src = "images/image11.png";
+	document.getElementById('boi').src = "images/image11.png";
 }
